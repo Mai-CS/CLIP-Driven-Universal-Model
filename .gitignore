@@ -2,3 +2,9 @@ out
 pretrained_weights/swin_unetr.base_5000ep_f48_lr2e-4_pretrained.pt
 pretrained_weights/Genesis_Chest_CT.pt
 pretrained_weights/swinunetr.pth
+_results
+_samples
+__pycache__
+dataset/__pycache__
+model/__pycache__
+utils/__pycache__
